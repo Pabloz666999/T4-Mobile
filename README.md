@@ -16,23 +16,23 @@ Aplikasi Student Contact App adalah aplikasi manajemen data mahasiswa yang memun
 - **Swipe to Delete:** Fitur modern untuk menghapus data dengan menggeser item pada daftar.
 
 ## Screenshot Aplikasi
-**Login**
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/1406733e-5331-48d4-b791-e860de7ee08a" />
+- **Login:**
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1406733e-5331-48d4-b791-e860de7ee08a" />
 
-**Daftar Mahasiswa**
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/24de5a1d-90f6-43a8-8dfd-06b20c55d9b8" />
+- **Daftar Mahasiswa:**
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/24de5a1d-90f6-43a8-8dfd-06b20c55d9b8" />
 
-**Detail & Catatan**
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/893b5606-c5e6-4d43-ab3e-38a112dcf678" />
+- **Detail & Catatan:**
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/893b5606-c5e6-4d43-ab3e-38a112dcf678" />
 
-**Form Tambah**
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/0a8383aa-4cae-44c8-9214-55d5113bc6fb" />
+- **Form Tambah:**
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/0a8383aa-4cae-44c8-9214-55d5113bc6fb" />
 
-**Profile**
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/e5ebf4b2-9252-4353-9dfe-b40a9e957a3c" />
+- **Profile:**
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/e5ebf4b2-9252-4353-9dfe-b40a9e957a3c" />
 
-**Search**
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/8ff7bdb7-dcec-4d0d-8557-d4039899076e" />
+- **Search:**
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/8ff7bdb7-dcec-4d0d-8557-d4039899076e" />
 
 
 
